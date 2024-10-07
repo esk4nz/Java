@@ -16,7 +16,7 @@ public class Main {
                 f = true;
             }
             else {
-                System.out.println("The number of columns in matrix A should be equal to the number of rows in matrix B");;
+                System.out.println("The number of columns in matrix A should be equal to the number of rows in matrix B");
             }
         } while (!f);
         System.out.println("Enter the number of columns in matrix B");
